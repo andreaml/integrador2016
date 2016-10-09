@@ -16,10 +16,5 @@ namespace PruebaVistas
         {
             InitializeComponent();
         }
-
-        private void datosClínicosToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            tabControl1.Visible = true;
-        }
     }
 }

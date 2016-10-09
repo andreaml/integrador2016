@@ -28,124 +28,12 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.tabControl1 = new System.Windows.Forms.TabControl();
-            this.tabPage1 = new System.Windows.Forms.TabPage();
-            this.tabPage2 = new System.Windows.Forms.TabPage();
-            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.consentimientoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.datosGeneralesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.datosClínicosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.consultasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.seguimientoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.tabControl1.SuspendLayout();
-            this.menuStrip1.SuspendLayout();
-            this.SuspendLayout();
-            // 
-            // tabControl1
-            // 
-            this.tabControl1.Controls.Add(this.tabPage1);
-            this.tabControl1.Controls.Add(this.tabPage2);
-            this.tabControl1.Location = new System.Drawing.Point(0, 27);
-            this.tabControl1.Name = "tabControl1";
-            this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(526, 240);
-            this.tabControl1.TabIndex = 0;
-            this.tabControl1.Visible = false;
-            // 
-            // tabPage1
-            // 
-            this.tabPage1.Location = new System.Drawing.Point(4, 22);
-            this.tabPage1.Name = "tabPage1";
-            this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(518, 214);
-            this.tabPage1.TabIndex = 0;
-            this.tabPage1.Text = "tabPage1";
-            this.tabPage1.UseVisualStyleBackColor = true;
-            // 
-            // tabPage2
-            // 
-            this.tabPage2.Location = new System.Drawing.Point(4, 22);
-            this.tabPage2.Name = "tabPage2";
-            this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(458, 243);
-            this.tabPage2.TabIndex = 1;
-            this.tabPage2.Text = "tabPage2";
-            this.tabPage2.UseVisualStyleBackColor = true;
-            // 
-            // menuStrip1
-            // 
-            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.consentimientoToolStripMenuItem,
-            this.datosGeneralesToolStripMenuItem,
-            this.datosClínicosToolStripMenuItem,
-            this.consultasToolStripMenuItem,
-            this.seguimientoToolStripMenuItem});
-            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
-            this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(526, 24);
-            this.menuStrip1.TabIndex = 1;
-            this.menuStrip1.Text = "menuStrip1";
-            // 
-            // consentimientoToolStripMenuItem
-            // 
-            this.consentimientoToolStripMenuItem.Name = "consentimientoToolStripMenuItem";
-            this.consentimientoToolStripMenuItem.Size = new System.Drawing.Size(104, 20);
-            this.consentimientoToolStripMenuItem.Text = "Consentimiento";
-            // 
-            // datosGeneralesToolStripMenuItem
-            // 
-            this.datosGeneralesToolStripMenuItem.Name = "datosGeneralesToolStripMenuItem";
-            this.datosGeneralesToolStripMenuItem.Size = new System.Drawing.Size(102, 20);
-            this.datosGeneralesToolStripMenuItem.Text = "Datos generales";
-            // 
-            // datosClínicosToolStripMenuItem
-            // 
-            this.datosClínicosToolStripMenuItem.Name = "datosClínicosToolStripMenuItem";
-            this.datosClínicosToolStripMenuItem.Size = new System.Drawing.Size(92, 20);
-            this.datosClínicosToolStripMenuItem.Text = "Datos clínicos";
-            this.datosClínicosToolStripMenuItem.Click += new System.EventHandler(this.datosClínicosToolStripMenuItem_Click);
-            // 
-            // consultasToolStripMenuItem
-            // 
-            this.consultasToolStripMenuItem.Name = "consultasToolStripMenuItem";
-            this.consultasToolStripMenuItem.Size = new System.Drawing.Size(71, 20);
-            this.consultasToolStripMenuItem.Text = "Consultas";
-            // 
-            // seguimientoToolStripMenuItem
-            // 
-            this.seguimientoToolStripMenuItem.Name = "seguimientoToolStripMenuItem";
-            this.seguimientoToolStripMenuItem.Size = new System.Drawing.Size(86, 20);
-            this.seguimientoToolStripMenuItem.Text = "Seguimiento";
-            // 
-            // Form1
-            // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(526, 267);
-            this.Controls.Add(this.tabControl1);
-            this.Controls.Add(this.menuStrip1);
-            this.MainMenuStrip = this.menuStrip1;
-            this.Name = "Form1";
             this.Text = "Form1";
-            this.tabControl1.ResumeLayout(false);
-            this.menuStrip1.ResumeLayout(false);
-            this.menuStrip1.PerformLayout();
-            this.ResumeLayout(false);
-            this.PerformLayout();
-
         }
 
         #endregion
-
-        private System.Windows.Forms.TabControl tabControl1;
-        private System.Windows.Forms.TabPage tabPage1;
-        private System.Windows.Forms.TabPage tabPage2;
-        private System.Windows.Forms.MenuStrip menuStrip1;
-        private System.Windows.Forms.ToolStripMenuItem consentimientoToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem datosGeneralesToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem datosClínicosToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem consultasToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem seguimientoToolStripMenuItem;
     }
 }
 

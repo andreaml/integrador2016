@@ -1,9 +1,1 @@
-C:\Users\Andrea\Google Drive\PROGRAMACIÓN VISUAL\PruebaVistas\PruebaVistas\bin\Debug\PruebaVistas.exe.config
-C:\Users\Andrea\Google Drive\PROGRAMACIÓN VISUAL\PruebaVistas\PruebaVistas\bin\Debug\PruebaVistas.exe
-C:\Users\Andrea\Google Drive\PROGRAMACIÓN VISUAL\PruebaVistas\PruebaVistas\bin\Debug\PruebaVistas.pdb
-C:\Users\Andrea\Google Drive\PROGRAMACIÓN VISUAL\PruebaVistas\PruebaVistas\obj\Debug\PruebaVistas.csprojResolveAssemblyReference.cache
-C:\Users\Andrea\Google Drive\PROGRAMACIÓN VISUAL\PruebaVistas\PruebaVistas\obj\Debug\PruebaVistas.Form1.resources
-C:\Users\Andrea\Google Drive\PROGRAMACIÓN VISUAL\PruebaVistas\PruebaVistas\obj\Debug\PruebaVistas.Properties.Resources.resources
-C:\Users\Andrea\Google Drive\PROGRAMACIÓN VISUAL\PruebaVistas\PruebaVistas\obj\Debug\PruebaVistas.csproj.GenerateResource.Cache
-C:\Users\Andrea\Google Drive\PROGRAMACIÓN VISUAL\PruebaVistas\PruebaVistas\obj\Debug\PruebaVistas.exe
-C:\Users\Andrea\Google Drive\PROGRAMACIÓN VISUAL\PruebaVistas\PruebaVistas\obj\Debug\PruebaVistas.pdb
+C:\MiGit\PruebaVistas\PruebaVistas\bin\Debug\PruebaVistas.exe.config
