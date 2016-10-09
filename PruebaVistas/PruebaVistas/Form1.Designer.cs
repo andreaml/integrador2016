@@ -40,6 +40,8 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "label1";
             // 
+            this.SuspendLayout();
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
